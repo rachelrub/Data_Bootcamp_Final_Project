@@ -11,6 +11,6 @@ The first private prison in the U.S. came into existance in 1984. Since then, th
 
 In this project, I will analyze the change in people incarcerated in private prisons over time and people, relative to the change in total people incarcerate. Secondly, I will normalize the number data of people incarcerated by state relative to the population of that state. Finally I will look at where most private prisons are located and see if there is a relationship between the states in which private prisons are concentrated and that state's political leaning.
 
-The data behind this project comes from the Bureau of Justice Statistics, (JBS), for information on incarceration rates, number of private prisons, and location of private prisons; Pew Research Center for information about party affiliation by state.
+The data behind this project comes from the Bureau of Justice Statistics (JBS), for information on incarceration rates, number of private prisons, and location of private prisons; Pew Research Center for information about party affiliation by state.
 
 I will download the data from the Bureau of Justice Statistics from their website into an excel sheet. I will do the same for Pew Research Center.
